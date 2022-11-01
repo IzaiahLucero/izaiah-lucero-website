@@ -1,0 +1,49 @@
+#bioSection {
+    /*background-image: url("images/header-background.png") ;*/
+    /*object-fit: cover;*/
+    /*background-color: #EBF7FC;*/
+}
+#bioContent {
+}
+
+#profileImage {
+    /*filter: drop-shadow(0 0 0.75rem dimgrey);*/
+    border-radius: 50%;
+}
+
+#hello {
+    font-family: sans-serif;
+}
+
+#myName {
+    font-family: "Cooper Black", Serif;
+    color: #000000;
+    font-size: 4em;
+}
+#jobTitle {
+    font-family: "Century Gothic", Serif;
+    color: dimgrey;
+    font-size: 2em;
+}
+
+#skillsHeader {
+    font-family: "Century Gothic", Serif;
+    color: #3AB5F9;
+    font-size: 3em;
+}
+
+#theProcessHeader {
+    font-family: "Century Gothic", Serif;
+    color: #3AB5F9;
+    font-size: 3em;
+}
+#gallerHeader {
+    font-family: "Century Gothic", Serif;
+    color: #3AB5F9;
+    font-size: 3em;
+}
+
+#navigationBar {
+    font-family: "Century Gothic", Serif;
+    color: #3AB5F9;
+}
