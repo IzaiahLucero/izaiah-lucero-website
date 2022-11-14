@@ -47,3 +47,34 @@
     font-family: "Century Gothic", Serif;
     color: #3AB5F9;
 }
+
+#contentHeaders {
+    font-family: "Cooper Black", Serif;
+    color: dimgrey;
+    font-size: 2em;
+}
+
+h3 {
+    font-family: "Cooper Black", Serif;
+    font-size: 3em;
+}
+
+p {
+    font-size: 1em;
+}
+
+#researchHeader {
+    color: #DF485D;
+}
+
+#designHeader {
+    color: #BC7148;
+}
+
+#developHeader {
+    color: #258464;
+}
+
+#implementHeader {
+    color: #3DC1BD;
+}
